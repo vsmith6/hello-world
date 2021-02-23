@@ -1,0 +1,1 @@
+getLocalSec.o: ../getLocalSec.cpp
