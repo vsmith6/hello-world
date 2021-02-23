@@ -1,0 +1,1 @@
+getLocalHour.o: ../getLocalHour.cpp
